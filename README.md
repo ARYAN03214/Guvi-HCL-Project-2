@@ -26,25 +26,31 @@ The project uses the famous Iris dataset (150 samples) to train and test the mod
 ⚙️ Functional Components
 
 ✅ Load dataset using sklearn / pandas
+
 ✅ Prepare features & labels
+
 ✅ Split data into training and testing sets (train_test_split)
+
 ✅ Train model with DecisionTreeClassifier
+
 ✅ Evaluate using accuracy score & classification report
+
 ✅ Predict species for new flower inputs
 
 📊 Model Performance
 
-The trained Decision Tree Classifier achieved an impressive accuracy of 98% 🎯
+The trained Decision Tree Classifier achieved an impressive accuracy of 98% 🎯.
 
-              precision    recall  f1-score   support
+ Accuracy: 0.98
+                 precision    recall  f1-score   support
 
-Iris-setosa       1.00      1.00      1.00        19
-Iris-versicolor   0.94      1.00      0.97        17
-Iris-virginica    1.00      0.94      0.97        17
+    Iris-setosa       1.00      1.00      1.00        19
+Iris-versicolor       0.94      1.00      0.97        17
+ Iris-virginica       1.00      0.94      0.97        17
 
-accuracy                              0.98        53
-macro avg         0.98      0.98      0.98        53
-weighted avg      0.98      0.98      0.98        53
+       accuracy                           0.98        53
+      macro avg       0.98      0.98      0.98        53
+   weighted avg       0.98      0.98      0.98        53
 
 🚀 Output Example
 
