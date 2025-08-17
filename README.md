@@ -39,9 +39,8 @@ The project uses the famous Iris dataset (150 samples) to train and test the mod
 
 📊 Model Performance
 
-The trained Decision Tree Classifier achieved an impressive accuracy of 98% 🎯.
-
- Accuracy: 0.98
+Accuracy: 0.98
+ 
                  precision    recall  f1-score   support
 
     Iris-setosa       1.00      1.00      1.00        19
