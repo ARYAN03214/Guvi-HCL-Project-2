@@ -1,4 +1,5 @@
 🌸 Iris Flower Classification using Machine Learning
+
 📌 Problem Statement
 
 The Iris Flower Classification project is a classic example of supervised machine learning.
@@ -12,13 +13,13 @@ The goal is to classify iris flowers into three species:
 
 based on their physical measurements:
 
-Sepal Length
+•Sepal Length
 
-Sepal Width
+•Sepal Width
 
-Petal Length
+•Petal Length
 
-Petal Width
+•Petal Width
 
 The project uses the famous Iris dataset (150 samples) to train and test the model.
 
@@ -46,6 +47,7 @@ macro avg         0.98      0.98      0.98        53
 weighted avg      0.98      0.98      0.98        53
 
 🚀 Output Example
+
 # Example input
 new_data = [[5.0, 3.4, 1.5, 0.2]]
 
