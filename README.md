@@ -41,15 +41,18 @@ The project uses the famous Iris dataset (150 samples) to train and test the mod
 
 Accuracy: 0.98
  
-                 precision    recall  f1-score   support
 
-    Iris-setosa       1.00      1.00      1.00        19
-Iris-versicolor       0.94      1.00      0.97        17
- Iris-virginica       1.00      0.94      0.97        17
+   | Class               | Precision | Recall | F1-Score | Support |
+| ------------------- | --------- | ------ | -------- | ------- |
+| **Iris-setosa**     | 1.00      | 1.00   | 1.00     | 19      |
+| **Iris-versicolor** | 0.94      | 1.00   | 0.97     | 17      |
+| **Iris-virginica**  | 1.00      | 0.94   | 0.97     | 17      |
+| **Accuracy**        |           |        | **0.98** | 53      |
+| **Macro Avg**       | 0.98      | 0.98   | 0.98     | 53      |
+| **Weighted Avg**    | 0.98      | 0.98   | 0.98     | 53      |
 
-       accuracy                           0.98        53
-      macro avg       0.98      0.98      0.98        53
-   weighted avg       0.98      0.98      0.98        53
+The predicted species for the input [[5.0, 3.4, 1.5, 0.2]] is: Iris-setosa
+
 
 🚀 Output Example
 
