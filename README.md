@@ -73,7 +73,7 @@ The workflow is designed to align with the **Data Science Marking Rubric (30 Mar
 
 ---
 
-## 🏆 Marking Rubric Coverage
+## 🏆 Implementation
 - ✅ Data Pipeline Implementation  
 - ✅ ML Model Applied Correctly  
 - ✅ Model Evaluation Metrics  
@@ -81,7 +81,7 @@ The workflow is designed to align with the **Data Science Marking Rubric (30 Mar
 - ✅ Real-World Insights Presented  
 - ✅ Structured and Readable Code  
 
-**Total: 30/30 Marks**
+
 
 ---
 
