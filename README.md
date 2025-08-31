@@ -1,7 +1,6 @@
 # 🌸 Iris Flower Classification Project
 
 This project demonstrates the classification of **Iris flowers** into three species (*Setosa, Versicolor, Virginica*) using **Machine Learning (Logistic Regression)**.  
-The workflow is designed to align with the **Data Science Marking Rubric (30 Marks)**.
 
 ---
 
@@ -32,34 +31,34 @@ The workflow is designed to align with the **Data Science Marking Rubric (30 Mar
 ---
 
 ## 🚀 Steps in the Project
-### 1. Data Pipeline (5 marks)
+### 1. Data Pipeline 
 - Load dataset
 - Clean data & check for missing values
 - Feature-target separation
 - Train-Test split (80-20)
 - Standardization using `StandardScaler`
 
-### 2. Machine Learning Model (5 marks)
+### 2. Machine Learning Model 
 - Applied **Logistic Regression** classifier
 - Model trained on training data
 - Predictions generated for test data
 
-### 3. Model Evaluation (4 marks)
+### 3. Model Evaluation 
 - **Accuracy Score**
 - **Confusion Matrix** (visualized with heatmap)
 - **Classification Report** (precision, recall, F1-score)
 
-### 4. Visualization (4 marks)
+### 4. Visualization 
 - Pairplot of features vs species
 - Confusion Matrix heatmap
 
-### 5. Real-World Insights (4 marks)
+### 5. Real-World Insights 
 - Model achieves **>90% accuracy**.
 - *Setosa* is easiest to classify (distinct features).
 - *Versicolor* and *Virginica* overlap → some misclassification.
 - Applicable in **smart agriculture, botany apps, and AI-powered plant recognition systems**.
 
-### 6. Project Presentation (4 marks)
+### 6. Project Presentation 
 - Clean and modular notebook/script
 - Easy-to-follow structure and comments
 
